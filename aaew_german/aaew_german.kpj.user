@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_german\aaew_german.kpj</path>
+    <file ID="id_0d885bb7fe01d53f72b4f99d525e1497" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_0d885bb7fe01d53f72b4f99d525e1497</ID>
+      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_german\source\aaew_german.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_44d9ebd6945676bd946a28b32a635baf</ID>
+      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_german\source\aaew_german.kps</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_german\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_german\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_german\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_b0c4ba3c53cfb25c719feb4c68749507</ID>
+      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_german\aaew_german.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_332ea943176eb5eed8ee935dc761497d</ID>
+      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_german\source\..\build\aaew_german.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_e78ccc8fa777cb1e8ac15fd46f2806d1</ID>
+      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_german\source\..\build\aaew_german.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_b89edcb8f679ba9d3765d9f99826b692</ID>
+      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_german\source\..\build\aaew_german.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_german\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_german\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>aaew_german.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_german\source\aaew_german.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
