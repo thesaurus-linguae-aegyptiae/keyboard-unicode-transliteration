@@ -2,9 +2,10 @@
 c with name "AAEW_German"
 store(&VERSION) '10.0'
 store(&NAME) 'AAEW_German'
-store(&COPYRIGHT) '© BBAW'
+store(&COPYRIGHT) '© Berlin-Brandenburg Academy of Sciences and Humanities'
 store(&KEYBOARDVERSION) '2.0'
 store(&TARGETS) 'any'
+store(&MESSAGE) 'Keyboard layout V1.0: created by Stefan Dumont; V2.0: expanded by Simon D. Schweitzer; Apache 2.0 lic.'
 
 begin Unicode > use(main)
 

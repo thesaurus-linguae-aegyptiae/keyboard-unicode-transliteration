@@ -3,12 +3,13 @@
   <ViewState>
     <tab>1</tab>
     <showhelp>1</showhelp>
-    <path>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_american\aaew_american.kpj</path>
+    <path>C:\Users\schweitzer\Documents\GitHub\keyboard-unicode-transliteration\aaew_american\aaew_american.kpj</path>
+    <file ID="id_MRU0" Expanded="1"/>
   </ViewState>
   <FileStates>
     <FileState>
       <ID>id_59d356992d2f7be3c4c8d3bbeb3130e4</ID>
-      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_american\source\aaew_american.kmn</FullPath>
+      <FullPath>C:\Users\schweitzer\Documents\GitHub\keyboard-unicode-transliteration\aaew_american\source\aaew_american.kmn</FullPath>
       <IDEState>
         <LayoutDisplay102Key>0</LayoutDisplay102Key>
         <DebugDefaultFont>1</DebugDefaultFont>
@@ -20,48 +21,54 @@
     </FileState>
     <FileState>
       <ID>id_71a62eceff67af04a7d2f0ba6089bdb4</ID>
-      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_american\source\aaew_american.kps</FullPath>
+      <FullPath>C:\Users\schweitzer\Documents\GitHub\keyboard-unicode-transliteration\aaew_american\source\aaew_american.kps</FullPath>
     </FileState>
     <FileState>
       <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
-      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_american\HISTORY.md</FullPath>
+      <FullPath>C:\Users\schweitzer\Documents\GitHub\keyboard-unicode-transliteration\aaew_american\HISTORY.md</FullPath>
     </FileState>
     <FileState>
       <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
-      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_american\LICENSE.md</FullPath>
+      <FullPath>C:\Users\schweitzer\Documents\GitHub\keyboard-unicode-transliteration\aaew_american\LICENSE.md</FullPath>
     </FileState>
     <FileState>
       <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
-      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_american\README.md</FullPath>
+      <FullPath>C:\Users\schweitzer\Documents\GitHub\keyboard-unicode-transliteration\aaew_american\README.md</FullPath>
     </FileState>
     <FileState>
       <ID>id_666e14042f72b7c642d368f85f73c5d2</ID>
-      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_american\aaew_american.keyboard_info</FullPath>
+      <FullPath>C:\Users\schweitzer\Documents\GitHub\keyboard-unicode-transliteration\aaew_american\aaew_american.keyboard_info</FullPath>
     </FileState>
     <FileState>
       <ID>id_c127fe48a4127ecaff9510dfcefc0d43</ID>
-      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_american\source\..\build\aaew_american.kmx</FullPath>
+      <FullPath>C:\Users\schweitzer\Documents\GitHub\keyboard-unicode-transliteration\aaew_american\source\..\build\aaew_american.kmx</FullPath>
     </FileState>
     <FileState>
       <ID>id_0338feb82afee4469ff44ecd6db5172c</ID>
-      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_american\source\..\build\aaew_american.js</FullPath>
+      <FullPath>C:\Users\schweitzer\Documents\GitHub\keyboard-unicode-transliteration\aaew_american\source\..\build\aaew_american.js</FullPath>
     </FileState>
     <FileState>
       <ID>id_c2c12b74a04368467b1827efc2276ad4</ID>
-      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_american\source\..\build\aaew_american.kvk</FullPath>
+      <FullPath>C:\Users\schweitzer\Documents\GitHub\keyboard-unicode-transliteration\aaew_american\source\..\build\aaew_american.kvk</FullPath>
     </FileState>
     <FileState>
       <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
-      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_american\source\welcome.htm</FullPath>
+      <FullPath>C:\Users\schweitzer\Documents\GitHub\keyboard-unicode-transliteration\aaew_american\source\welcome.htm</FullPath>
     </FileState>
     <FileState>
       <ID>id_8da344c4cea6f467013357fe099006f5</ID>
-      <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_american\source\readme.htm</FullPath>
+      <FullPath>C:\Users\schweitzer\Documents\GitHub\keyboard-unicode-transliteration\aaew_american\source\readme.htm</FullPath>
     </FileState>
   </FileStates>
   <MRU>
     <File>
       <ID>id_MRU0</ID>
+      <Filename>aaew_american.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\schweitzer\Documents\GitHub\keyboard-unicode-transliteration\aaew_american\source\aaew_american.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
       <Filename>aaew_american.kmn</Filename>
       <FileType>.kmn</FileType>
       <FullPath>C:\Users\schweitzer\Documents\Keyman Developer\Projects\aaew_american\source\aaew_american.kmn</FullPath>

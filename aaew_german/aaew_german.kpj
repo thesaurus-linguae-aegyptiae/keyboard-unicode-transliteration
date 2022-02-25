@@ -16,7 +16,8 @@
       <FileType>.kmn</FileType>
       <Details>
         <Name>AAEW_German</Name>
-        <Copyright>© BBAW</Copyright>
+        <Copyright>© Berlin-Brandenburg Academy of Sciences and Humanities</Copyright>
+        <Message>Keyboard layout V1.0: created by Stefan Dumont; V2.0: expanded by Simon D. Schweitzer; Apache 2.0 lic.</Message>
       </Details>
     </File>
     <File>
