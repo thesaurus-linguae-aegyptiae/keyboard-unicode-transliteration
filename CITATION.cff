@@ -1,0 +1,19 @@
+message: "If you use this keyboard layout, please cite it using the metadata in the CFF file."
+authors:
+  - family-names: Schweitzer
+    given-names: Simon D.
+  - family-names: Dumont
+    given-names: Stefan
+    orcid: "https://orcid.org/0000-0002-6923-0950"
+title: "Keyman keyboard layout AAeW (Altägyptisches Wörterbuch)" 
+abstract: "Keyman keyboard layout for editing Ancient Egyptian texts in the editorial software Berlin Text System of the Thesaurus Linguae Aegyptiae project at the Berlin-Brandenburgische Akademie der Wissenschaften, Berlin, Germany."
+type: software
+date-released: "2022-02-25"
+version: 2.0
+repository-code: "https://github.com/thesaurus-linguae-aegyptiae/keyboard-unicode-transliteration/"
+license: "Apache License 2.0"
+url: "https://aaew.bbaw.de/egyptological-transliteration-keyboard"
+contact:
+  - email: aegypt1@bbaw.de
+    name: "BBAW, Team AV Wortschatz der ägyptischen Sprache"
+cff-version: 1.2.0
