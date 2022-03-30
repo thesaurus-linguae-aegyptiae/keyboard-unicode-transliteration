@@ -1,7 +1,7 @@
 ﻿c aaew_american generated from template at 2021-11-29 11:41:08
 c with name "AAEW_American"
 store(&VERSION) '10.0'
-store(&NAME) 'AAEW_American'
+store(&NAME) 'AAEW-US_Int_QUERTY'
 store(&COPYRIGHT) '© Berlin-Brandenburg Academy of Sciences and Humanities'
 store(&KEYBOARDVERSION) '1.0'
 store(&TARGETS) 'any'

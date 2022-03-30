@@ -1,7 +1,7 @@
 ﻿c aaew_german generated from template at 2021-11-29 10:42:21
 c with name "AAEW_German"
 store(&VERSION) '10.0'
-store(&NAME) 'AAEW_German'
+store(&NAME) 'AAEW-German_QUERTZ'
 store(&COPYRIGHT) '© Berlin-Brandenburg Academy of Sciences and Humanities'
 store(&KEYBOARDVERSION) '2.0'
 store(&TARGETS) 'any'
