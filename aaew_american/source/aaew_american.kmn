@@ -3,9 +3,9 @@ c with name "AAEW_American"
 store(&VERSION) '10.0'
 store(&NAME) 'AAEW-US_Int_QUERTY'
 store(&COPYRIGHT) '© Berlin-Brandenburg Academy of Sciences and Humanities'
-store(&KEYBOARDVERSION) '1.0'
+store(&KEYBOARDVERSION) '2.0'
 store(&TARGETS) 'any'
-store(&MESSAGE) 'Keyboard layout V1.0: created by Simon D. Schweitzer; Apache 2.0 lic.'
+store(&MESSAGE) 'Keyboard layout V2.0: created by Simon D. Schweitzer; Apache 2.0 lic.'
 
 begin Unicode > use(main)
 

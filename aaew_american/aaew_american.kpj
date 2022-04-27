@@ -12,12 +12,12 @@
       <ID>id_59d356992d2f7be3c4c8d3bbeb3130e4</ID>
       <Filename>aaew_american.kmn</Filename>
       <Filepath>source\aaew_american.kmn</Filepath>
-      <FileVersion>1.0</FileVersion>
+      <FileVersion>2.0</FileVersion>
       <FileType>.kmn</FileType>
       <Details>
         <Name>AAEW-US_Int_QUERTY</Name>
         <Copyright>© Berlin-Brandenburg Academy of Sciences and Humanities</Copyright>
-        <Message>Keyboard layout V1.0: created by Simon D. Schweitzer; Apache 2.0 lic.</Message>
+        <Message>Keyboard layout V2.0: created by Simon D. Schweitzer; Apache 2.0 lic.</Message>
       </Details>
     </File>
     <File>
